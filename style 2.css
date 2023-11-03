@@ -1,0 +1,53 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #000000ec;
+    margin: 0;
+    padding: 20px;
+    background-image: url(Image\ 1.jpg);
+}
+
+.cv {
+    max-width: 600px;
+    margin: auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(161, 39, 39, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #00b7ff;
+    text-align: center;
+}
+
+p {
+    color: rgb(0, 135, 245)255
+}
+
+hr {
+    margin: 20px 0;
+    border: 5;
+    border-top: 1px solid #ff0000;
+}
+
+h2 {
+    color: #00ffdd;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.profile-img {
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
